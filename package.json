@@ -1,0 +1,12 @@
+{
+  "name": "veeresh-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Veeresh Babu V K inspired by Framer Ruhi Pro",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js"
+  },
+  "author": "Veeresh Babu V K",
+  "license": "MIT"
+}
