@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react"
-import portrait from "../assets/veeresh.jpeg"
+import portrait from "./veeresh.jpeg"
 
 /* ----------------------------------------------------------------- data */
 
